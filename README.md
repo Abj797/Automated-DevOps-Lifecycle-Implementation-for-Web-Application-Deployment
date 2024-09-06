@@ -74,3 +74,22 @@ Create three jobs in Jenkins (Build, Test, and Prod) as described in the project
 
 ## Screenshots 
 
+![image](https://github.com/user-attachments/assets/363cca13-6c76-4d6f-b789-9f744b0d8bbf)
+
+![image](https://github.com/user-attachments/assets/8248103f-c334-40e5-8436-13b3757242f2)
+
+![image](https://github.com/user-attachments/assets/9d98800a-c567-4eac-b5b4-aed345634da1)
+
+![image](https://github.com/user-attachments/assets/b669ce55-3a0e-4c4c-bb69-a78ebd58dfae)
+
+![image](https://github.com/user-attachments/assets/1c67c833-8cbf-467c-a746-ee171211b888)
+
+## Conclusion 
+This project provides a complete DevOps lifecycle for a web application, from configuration management to continuous integration and delivery. The use of automated freestyle jobs ensures efficient code testing, containerization, and deployment, making this setup scalable and reliable for a production environment.
+
+
+
+
+
+
+
